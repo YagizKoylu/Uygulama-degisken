@@ -1,5 +1,5 @@
 # Uygulama-degisken
-1-Lisede öğrenimi sürdüren iki öğrencinin aşağıdaki bilgileri değişkende saklanıyor.
+     1-Lisede öğrenimi sürdüren iki öğrencinin aşağıdaki bilgileri değişkende saklanıyor.
         Öğrenci 1:
             İsim:
             Doğum Tarihi:
